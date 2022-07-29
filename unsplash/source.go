@@ -16,7 +16,7 @@ var ErrRequestFailed = errors.New("request failed")
 
 // nolint: gosec
 // const token = "4c483af1b27cf8d55fc29504bc48e3755e47eb7a3dd3a320e92b23fc4e5aa1b8"
-const token = "xteUYimSedgjkBsS6mJ8hG79rZihf7eitsJy8mBJL6w"
+const token = "t9tLblz7xvUG-x1Rn8w-qmZ3n8FuvKqPTtABtXfYRYk"
 
 // Source is source implmentation for unsplash image service.
 type Source struct {
