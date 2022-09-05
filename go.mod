@@ -5,7 +5,7 @@ module github.com/1995parham/gosimac
 require (
 	github.com/carlmjohnson/versioninfo v0.22.4
 	github.com/go-resty/resty/v2 v2.7.0
-	github.com/pterm/pterm v0.12.44
+	github.com/pterm/pterm v0.12.46
 	github.com/spf13/cobra v1.5.0
 )
 
